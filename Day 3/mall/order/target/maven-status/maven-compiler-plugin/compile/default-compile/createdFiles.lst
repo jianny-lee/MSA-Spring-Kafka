@@ -1,0 +1,13 @@
+mall/external/Cancellation.class
+mall/OrderController.class
+mall/Order.class
+mall/AbstractEvent.class
+mall/config/kafka/KafkaProcessor.class
+mall/OrderRepository.class
+mall/PolicyHandler.class
+mall/external/CancellationService.class
+mall/Ordered.class
+mall/OrderApplication.class
+mall/OrderCancelled.class
+mall/AbstractEvent$1.class
+mall/Shipped.class

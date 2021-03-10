@@ -1,0 +1,12 @@
+/Users/jianny/Downloads/mall/order/src/main/java/mall/Order.java
+/Users/jianny/Downloads/mall/order/src/main/java/mall/Ordered.java
+/Users/jianny/Downloads/mall/order/src/main/java/mall/OrderApplication.java
+/Users/jianny/Downloads/mall/order/src/main/java/mall/Shipped.java
+/Users/jianny/Downloads/mall/order/src/main/java/mall/external/Cancellation.java
+/Users/jianny/Downloads/mall/order/src/main/java/mall/OrderController.java
+/Users/jianny/Downloads/mall/order/src/main/java/mall/OrderCancelled.java
+/Users/jianny/Downloads/mall/order/src/main/java/mall/external/CancellationService.java
+/Users/jianny/Downloads/mall/order/src/main/java/mall/AbstractEvent.java
+/Users/jianny/Downloads/mall/order/src/main/java/mall/PolicyHandler.java
+/Users/jianny/Downloads/mall/order/src/main/java/mall/config/kafka/KafkaProcessor.java
+/Users/jianny/Downloads/mall/order/src/main/java/mall/OrderRepository.java
